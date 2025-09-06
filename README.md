@@ -5,16 +5,13 @@ This repository contains projects showcasing my skills in Excel, SQL, Python, an
 
 ## 📂 Projects
 
-1. **Excel Dashboard – DMart Sales Analysis**  
-   [View Project](./Excel-Dashboard)  
+1. **Excel Dashboard – DMart Sales Analysis** 
    - Built an interactive Excel dashboard with pivot tables, slicers, and charts.  
 
-2. **IMDB Movie Rating Analysis (Python Web Scraping)**  
-   [View Project](./IMDB-Webscraping)  
+2. **IMDB Movie Rating Analysis (Python Web Scraping)** 
    - Collected and analyzed IMDB movie data using Python (BeautifulSoup, Pandas).  
 
 3. **Music Store Data Analysis (SQL Project)**  
-   [View Project](./Music-Store-SQL)  
    - Analyzed database using SQL queries to study sales performance and customer behavior.  
 
 ---
