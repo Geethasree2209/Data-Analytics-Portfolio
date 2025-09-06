@@ -15,9 +15,3 @@ This repository contains projects showcasing my skills in Excel, SQL, Python, an
    - Analyzed database using SQL queries to study sales performance and customer behavior.  
 
 ---
-
-## 🔹 Step 4: Commit Changes
-When uploading each folder or README:  
-- **Commit message:**  
-  - `Added IMDB Webscraping project (Python)`  
-  - `Added Music Store SQL project with queries and README`
